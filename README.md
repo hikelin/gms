@@ -1,2 +1,2 @@
-# gms
-Go Message Service
+# Go Message Service
+Go Message Service Spec.
